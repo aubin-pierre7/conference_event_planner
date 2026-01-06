@@ -1,6 +1,3 @@
-<details>
-<summary>Click here to see solution</summary>
-```js
 import React, { useState, useEffect } from 'react';
 import "./TotalCost.css";
 const TotalCost = ({ totalCosts, ItemsDisplay }) => {
